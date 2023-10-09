@@ -1,0 +1,12 @@
+E:\Documentos\8 Periodo\Qualidade\CalculadoraDominio\CalculadoraDominio\bin\Debug\net6.0\CalculadoraDominio.deps.json
+E:\Documentos\8 Periodo\Qualidade\CalculadoraDominio\CalculadoraDominio\bin\Debug\net6.0\CalculadoraDominio.dll
+E:\Documentos\8 Periodo\Qualidade\CalculadoraDominio\CalculadoraDominio\bin\Debug\net6.0\CalculadoraDominio.pdb
+E:\Documentos\8 Periodo\Qualidade\CalculadoraDominio\CalculadoraDominio\obj\Debug\net6.0\CalculadoraDominio.csproj.AssemblyReference.cache
+E:\Documentos\8 Periodo\Qualidade\CalculadoraDominio\CalculadoraDominio\obj\Debug\net6.0\CalculadoraDominio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\8 Periodo\Qualidade\CalculadoraDominio\CalculadoraDominio\obj\Debug\net6.0\CalculadoraDominio.AssemblyInfoInputs.cache
+E:\Documentos\8 Periodo\Qualidade\CalculadoraDominio\CalculadoraDominio\obj\Debug\net6.0\CalculadoraDominio.AssemblyInfo.cs
+E:\Documentos\8 Periodo\Qualidade\CalculadoraDominio\CalculadoraDominio\obj\Debug\net6.0\CalculadoraDominio.csproj.CoreCompileInputs.cache
+E:\Documentos\8 Periodo\Qualidade\CalculadoraDominio\CalculadoraDominio\obj\Debug\net6.0\CalculadoraDominio.dll
+E:\Documentos\8 Periodo\Qualidade\CalculadoraDominio\CalculadoraDominio\obj\Debug\net6.0\refint\CalculadoraDominio.dll
+E:\Documentos\8 Periodo\Qualidade\CalculadoraDominio\CalculadoraDominio\obj\Debug\net6.0\CalculadoraDominio.pdb
+E:\Documentos\8 Periodo\Qualidade\CalculadoraDominio\CalculadoraDominio\obj\Debug\net6.0\ref\CalculadoraDominio.dll
